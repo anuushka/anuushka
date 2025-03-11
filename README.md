@@ -21,8 +21,8 @@
 
 **Olympiad:**
 <ul>
-  <li>Bronze medal, National English Olympiad</li>
-  <li>3rd place, National Speech Contest</li>
+  <li>National English Olympiad</li>
+  <li>National Speech Contest</li>
   <li>Standard Math Competition</li>
 </ul>
 
