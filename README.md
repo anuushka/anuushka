@@ -29,10 +29,10 @@
 
 **Programming languages:**
 <ul>
-  <li>C++11, C++14</li>
   <li>Python</li>
   <li>SQL</li>
   <li>Bash (linux)</li>
+  <li>C++11, C++14</li>
 </ul>
 
 **Experience:**
