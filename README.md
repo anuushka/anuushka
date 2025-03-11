@@ -7,7 +7,7 @@
 
 **Education:**
 <ul>
-  <li>ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia</li>
+  <li>ITMO University, Saint-Petersburg, Russia</li>
   <li>教育人間科学部、横浜国立大学</li>
 </ul>
 
@@ -22,7 +22,8 @@
 **Olympiad:**
 <ul>
   <li>National English Olympiad</li>
-  <li>National Speech Contest</li>
+  <li>
+    National Speech Contest</li>
   <li>Standard Math Competition</li>
 </ul>
 
