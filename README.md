@@ -31,9 +31,6 @@ SQL
 
 **Experience:**
 
-Resting and enjoying life after **burnout (燃え尽き症候群)** for a temporary time. 
-Teaching English (Japanese) as a hobby at the moment kkk
-
 QA engineer, KB
 
 Project Coordinator, OT 
