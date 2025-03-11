@@ -13,4 +13,4 @@ Project Coordinator, Rio Tinto
 
 Data Analyst, Rio Tinto
 
-DevOps, Rio Tinto
+DevOps Engineer, Rio Tinto
