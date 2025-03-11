@@ -5,5 +5,7 @@
 -->
 **Experience:**
 Part-time tutor, Kings
+
 QA engineer, Khan Bank
+
 Data Analyst, Rio Tinto
