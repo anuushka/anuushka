@@ -19,15 +19,13 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 
 <li>Russian B2 level</li>
 
+
 **Programming languages:**
 
-C++11, C++14
-
-Python 
-
-Bash (linux)
-
-SQL
+<li>C++11, C++14</li>
+<li>Python</li>
+<li>SQL</li>
+<li>Bash (linux)</li>
 
 **Experience:**
 
