@@ -8,7 +8,7 @@
 **Education:**
 <ul>
   <li>ITMO University, Saint-Petersburg, Russia</li>
-  <li>教育人間科学部、横浜国立大学</li>
+  <li>横浜国立大学</li>
 </ul>
 
 **Foreign Languages:**
