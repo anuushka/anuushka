@@ -13,12 +13,11 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 
 **Foreign Languages:**
 
-<li>Japanese language proficiency test,　日本語能力試験 N1</li>
-
-<li>iBT TOEFL 107</li>
-
-<li>Russian B2 level</li>
-
+<ul>
+  <li>Japanese language proficiency test,　日本語能力試験 N1</li>
+  <li>iBT TOEFL 107</li>
+  <li>Russian B2 level</li>
+</ul>
 
 **Programming languages:**
 
