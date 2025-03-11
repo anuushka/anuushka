@@ -11,7 +11,7 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 
 教育人間科学部、横浜国立大学、 2016
 
-**Languages:**
+**Foreign Languages:**
 
 Japanese language proficiency test,　日本語能力試験 N1
 
