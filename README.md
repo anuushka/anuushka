@@ -20,11 +20,12 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 </ul>
 
 **Programming languages:**
-
-<li>C++11, C++14</li>
-<li>Python</li>
-<li>SQL</li>
-<li>Bash (linux)</li>
+<ul>
+  <li>C++11, C++14</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Bash (linux)</li>
+</ul>
 
 **Experience:**
 
