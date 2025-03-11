@@ -19,6 +19,12 @@
   <li>Russian B2</li>
 </ul>
 
+**Olympiad:**
+<ul>
+  <li>Bronze medal, National English Olympiad</li>
+  <li>Standard Math Competition</li>
+</ul>
+
 **Programming languages:**
 <ul>
   <li>C++11, C++14</li>
