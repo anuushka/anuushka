@@ -8,7 +8,7 @@
 
 ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia, 2019
 
-人間教育科学学部、横浜国立大学、2016
+教育人間科学部、横浜国立大学、2016
 
 <!--
 **anuushka/anuushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
