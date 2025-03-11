@@ -14,9 +14,9 @@
 **Foreign Languages:**
 
 <ul>
-  <li>Japanese language proficiency test,　日本語能力試験 N1</li>
-  <li>iBT TOEFL 107</li>
-  <li>Russian B2</li>
+  <li>Japanese</li>
+  <li>English</li>
+  <li>Russian</li>
 </ul>
 
 **Olympiad:**
