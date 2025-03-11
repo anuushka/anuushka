@@ -7,10 +7,10 @@
 
 Resting and enjoying life after burnout for a temporary time. Teaching English (Japanese) as a hobby at the moment kkk
 
-QA engineer, Khan Bank
+QA engineer, KB
 
-Project Coordinator, OT (Rio Tinto)
+Project Coordinator, OT 
 
-Data Analyst, OT (Rio Tinto)
+Data Analyst, OT 
 
-DevOps Engineer, OT (Rio Tinto)
+DevOps Engineer, OT 
