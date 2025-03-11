@@ -29,10 +29,9 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 
 **Experience:**
 
-QA engineer, KB
-
-Project Coordinator, OT 
-
-Data Analyst, OT 
-
-DevOps Engineer, OT 
+<ul>
+  <li>QA engineer, KB</li>
+  <li>Project Coordinator, OT</li>
+  <li>Data Analyst, OT</li>
+  <li>DevOps Engineer, OT</li>
+</ul>
