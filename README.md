@@ -9,6 +9,8 @@ Part-time tutor, Kings
 
 QA engineer, Khan Bank
 
+Project Coordinator, Rio Tinto
+
 Data Analyst, Rio Tinto
 
-Project Coordinator, Rio Tinto
+DevOps, Rio Tinto
