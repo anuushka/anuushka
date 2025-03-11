@@ -9,8 +9,8 @@ Resting and enjoying life after burnout for a temporary time. Teaching English (
 
 QA engineer, Khan Bank
 
-Project Coordinator, Rio Tinto
+Project Coordinator, OT (Rio Tinto)
 
-Data Analyst, Rio Tinto
+Data Analyst, OT (Rio Tinto)
 
-DevOps Engineer, Rio Tinto
+DevOps Engineer, OT (Rio Tinto)
