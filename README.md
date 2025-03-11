@@ -9,7 +9,7 @@
 
 ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia, 2019
 
-教育人間科学部、Yokohama National University, Yokohama, Japan, 2016
+教育人間科学部、横浜国立大学, 横浜、日本, 2016
 
 **Experience:**
 
