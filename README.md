@@ -38,8 +38,8 @@
 **Experience:**
 
 <ul>
-  <li>QA engineer, KB</li>
-  <li>Project Coordinator, OT</li>
-  <li>Data Analyst, OT</li>
-  <li>DevOps Engineer, OT</li>
+  <li>QA engineer</li>
+  <li>Project Coordinator</li>
+  <li>Data Analyst</li>
+  <li>DevOps Engineer</li>
 </ul>
