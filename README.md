@@ -5,7 +5,9 @@
 -->
 
 **Education:**
+
 ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia, 2019
+
 Yokohama National University, Yokohama, Japan, 2016
 
 **Experience:**
