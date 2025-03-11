@@ -6,10 +6,10 @@
 
 
 **Education:**
-
-ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia, 2019
-
-教育人間科学部、横浜国立大学、 2016
+<ul>
+  <li>ITMO University, Faculty of Information technologies and programming, Saint-Petersburg, Russia, 2019</li>
+  <li>教育人間科学部、横浜国立大学、 2016</li>
+</ul>
 
 **Foreign Languages:**
 
