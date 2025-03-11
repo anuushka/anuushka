@@ -5,7 +5,7 @@
 -->
 **Experience:**
 
-Hibernating for some time kkk
+Resting and enjoying life after burnout at the moment kkk
 
 Part-time tutor, Kings
 
