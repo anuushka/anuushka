@@ -5,9 +5,7 @@
 -->
 **Experience:**
 
-Resting and enjoying life after burnout at the moment kkk
-
-Part-time tutor, Kings
+Resting and enjoying life after burnout at the moment. Teaching english as a hobby at the moment kkk
 
 QA engineer, Khan Bank
 
