@@ -13,7 +13,7 @@ ITMO University, Faculty of Information technologies and programming, Saint-Pete
 
 **Languages:**
 
-Japanese language proficiency test, N1
+Japanese language proficiency test,　日本語能力試験 N1
 
 iBT TOEFL 107
 
